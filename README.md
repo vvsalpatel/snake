@@ -1,4 +1,4 @@
-# Snake
+# Snake automation
 >Neural Networks playing snake game trained by genetic algorithm
 
 <p align="center">
